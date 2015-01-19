@@ -33,7 +33,7 @@ Why not drop by our M3 office and visit? We have two shiny new office
 terminals, generously funded by the [Mathematics Endowment 
 Fund](http://www.student.math.uwaterloo.ca/~mefcom/), and comfortable and clean
 desk space. We will publish our office hours on [the 
-calendar]({filename}/pages/calendar.md).
+calendar]({filename}/pages/calendar.md). Note: Our office is a safe women-only space and we request your cooperation in keeping it this way.
 
 ## Mailing address ##
 
